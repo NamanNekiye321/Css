@@ -1,3 +1,15 @@
-html{
-    background: pink;
+h2[draggable="false"] {
+  color: crimson;
 }
+h2[draggable="true"] {
+  color: blueviolet;
+}
+
+*{
+    color: pink ;
+}
+
+
+
+
+
